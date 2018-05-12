@@ -1,0 +1,28 @@
+_repo: Heart-of-the-Blue-Ridge_28454
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baily, Waldron
+    alias: Baily, Dykeman Waldron
+    birthdate: 1871
+    deathdate: 1953
+    gutenberg_agent_id: '33344'
+    url: http://www.gutenberg.org/2009/agents/33344
+description: ''
+gutenberg_issued: '2009-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28454'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Blue Ridge Mountains -- Fiction'
+- !lcsh 'Mountain life -- Fiction'
+title: Heart of the Blue Ridge
+url: http://www.gutenberg.org/ebooks/28454
